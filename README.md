@@ -13,6 +13,14 @@ It supports both **data-driven** and **rule-based** anomaly detection methods, w
 ### 1. Clone the repository
 ### 2. Create a virtual environment
 
+```
+conda create -n hackathon python=3.12
+```
+
+```
+conda activate hackathon
+```
+
 ### 3. Install dependencies
 
     pip install -r requirements.txt
